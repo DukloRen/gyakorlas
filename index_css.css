@@ -1,0 +1,29 @@
+#tablex{
+    width:40%;
+}
+main{
+    background-color: burlywood;
+    max-width: 1023px;
+    margin: auto;
+}
+#header{
+    background-color: pink;
+}
+#title{
+    color:papayawhip;
+}
+#bemutatas{
+    padding-bottom:70px;
+}
+#tortenete{
+    padding-bottom:70px;
+}
+#uzletek{
+    padding-bottom:70px;
+}
+#footer{
+    background: linear-gradient(to right, pink 0%, brown 100%); /*Színátmenetet kér a feladat, vagy fekete background és fehér textet?*/
+}
+#tablex{
+    margin:auto;
+}
